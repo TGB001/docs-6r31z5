@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pkji23.kujang138bos.online/sitemap.xml
